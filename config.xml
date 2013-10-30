@@ -24,7 +24,6 @@
 
         <icon src="zby.png" gap:role="default" />
 
-    <gap:splash src="zby.png" />
 
         <feature name="http://api.phonegap.com/1.0/geolocation"/>
         <feature name="http://api.phonegap.com/1.0/network"/>
